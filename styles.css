@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  display: inline-block;
+}
+
+.Options {
+  display: inline-block;
+  background-color: blue;
+  float: right;
+
+}
+.Name {
+  display: inline-block;
+  background-color: blue;
+ float:left;
+
+}
+.leftcontent {
+  background-color: blue;
+  width: 50%;
+}
+
+.rightContent {
+  background-color: green;
+  width: 50%;
+}
