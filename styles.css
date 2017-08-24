@@ -1,29 +1,21 @@
-body {
-  margin: 0;
-}
-
-h1 {
-  display: inline-block;
-}
-
-.Options {
-  display: inline-block;
-  background-color: blue;
-  float: right;
+.picture {
+  display:inline;
+  float: left;
 
 }
-.Name {
-  display: inline-block;
-  background-color: blue;
- float:left;
+.navBar {
+  align-items: flex-start;
 
 }
-.leftcontent {
-  background-color: blue;
-  width: 50%;
+div {
+  display:inline-block;
 }
 
-.rightContent {
-  background-color: green;
-  width: 50%;
+ul {
+  float:right;
+  display:inline-block;
+}
+
+.name {
+  background: blue;
 }
